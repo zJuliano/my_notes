@@ -13,7 +13,7 @@ else:
 print(passou_no_if is None) # Saída: True
 ```
 
-No código acima, a variável `condicao` está com o valor `False`, então o bloco dentro do `if` não é executado. Isso significa que o `passou_no_if = True` **não acontece**, e a variável continua com o valor `None`, que foi o valor atribuído a ela antes do `if`
+No código acima, a variável `condnicao` está com o valor `False`, então o bloco dentro do `if` não é executado. Isso significa que o `passou_no_if = True` **não acontece**, e a variável continua com o valor `None`, que foi o valor atribuído a ela ates do `if`
 
 `(passou_no_if is None)`, está **verificando** se a variável `passou_no_if` é exatamente igual a `None`. E como ela realmente é `None`, o retorno desse `print` é `True`
 
