@@ -10,7 +10,7 @@ Uma outra coisa interessante também é o **GRUD**. Grud significa: Criar (Creat
 ## Apagando item da lista
 
 Para apagar um item da lista, iremos utilizar a instrução `del`:
-[[82-Inserindo itens em qualquer índice da lista com insert (Tipo list)]]
+
 ```python
 lista = [10, 12, 15, 23, 40]
 del lista[2]

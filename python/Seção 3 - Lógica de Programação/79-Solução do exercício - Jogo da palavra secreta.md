@@ -10,7 +10,7 @@ while True:
 
     pergunta = input("Digite uma letra: ")
 
-    if len([[80. Tipo list - Introdução às listas mutáveis em Python]]pergunta) > 1:
+    if len(pergunta) > 1:
         print("Digite somente UMA letra!")
         continue
     

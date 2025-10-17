@@ -15,6 +15,10 @@ print(lista_c) # Saída: [1, 2, 3, 4, 5, 6]
 
 O que isso vai fazer é **concatenar** a `lista_a` com a `lista_b`, retornar a lista concatenada e armazenar na variável `lista_c`.
 
+---
+
+## Método .extend()
+
 A outra maneira é utilizando o método `.extend()` da lista:
 
 ```python
