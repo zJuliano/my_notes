@@ -12,7 +12,7 @@ No código acima, estamos fazendo um `for` em `indices`, que contém um `range` 
 
 ---
 
-### Função `enumerate[[73-range + for para usar intervalos de números]]()`
+### Função `enumerate()`
 
 Nesta aula, o que vamos aprender é a função **`enumerate()`**, que serve para **enumerar iteráveis automaticamente**, pegando **o índice e o valor** de cada elemento sem precisar criar o `range(len(lista))`.
 
